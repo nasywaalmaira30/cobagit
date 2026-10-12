@@ -1,3 +1,1 @@
-<?php
-echo "Halaman Login";
-?>
+ini login
